@@ -1,0 +1,18 @@
+{
+  "date": "2026-12-03",
+  "timezone": "America/Los_Angeles",
+  "complete": true,
+  "work_start": "09:00",
+  "work_end": "17:00",
+  "buffer_minutes": 10,
+  "focus_minutes": 25,
+  "events": [
+    {"title": "Fictional Orion review", "start": {"dateTime": "2026-12-03T10:00:00-08:00"}, "end": {"dateTime": "2026-12-03T10:30:00-08:00"}},
+    {"title": "Fictional lunch", "start": {"dateTime": "2026-12-03T12:00:00-08:00"}, "end": {"dateTime": "2026-12-03T13:00:00-08:00"}}
+  ],
+  "tasks": [
+    {"id": "agenda", "title": "Prepare fictional agenda", "minutes": 45, "priority": 1, "deadline": "10:00"},
+    {"id": "notes", "title": "Review fictional notes", "minutes": 60, "priority": 2, "splittable": true},
+    {"id": "outline", "title": "Draft fictional outline", "minutes": 90, "priority": 3}
+  ]
+}
